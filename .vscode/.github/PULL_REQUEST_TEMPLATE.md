@@ -1,4 +1,4 @@
-## Checkpoint Rubric
+'## Checkpoint Rubric
 This is the rubric that your instructor will use to grade your checkpoints. Please do not edit. 
 
 **Checkpoint 1**
